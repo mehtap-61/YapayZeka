@@ -8,3 +8,7 @@ Gelişen yapay zeka uygulamaları, sağlık, finans, ulaşım ve daha birçok al
 Pyhtonda temel  (pandas, numpy, matplotlib, BeautifulSoup, OPENCV gibi) kütüphanelerin yüklenmesi
 Bu kütüphaneler yardımı ile veri görselleştirme örnekleri
 OpenCV kütüphane uygulaması ile görüntü işleme örnekleri
+
+Scikit_Learn_kutuphanesi_ve_(fetch_california_housing()) verisetinin işleme alınması
+
+
