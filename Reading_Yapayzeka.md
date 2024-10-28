@@ -11,4 +11,4 @@ OpenCV kütüphane uygulaması ile görüntü işleme örnekleri
 
 Scikit_Learn_kutuphanesi_ve_(fetch_california_housing()) verisetinin işleme alınması
 
-
+Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) günlük döviz kurları verilerini ve OpenWeatherMap API'sini kullanarak yazılan bir şehrin hava durumu bilgilerini çekme çalışmaları
